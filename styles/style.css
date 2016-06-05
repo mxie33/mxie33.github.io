@@ -1,7 +1,11 @@
-.header {
+.headContainer {
+	background-color: rgb(0,0,0); 
+}
+.header h1{
+	color:#fff;
 	font-family: Impact;
 	test-align: center;
-	font-size: 300px;
+	font-size: 200px;
 }
 
 
