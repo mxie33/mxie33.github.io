@@ -2,7 +2,9 @@ body {
 
     color: #fff;
 }
-
+/**
+ ** header
+ **/
 .headContainer {
     height:1080px;
 }
@@ -20,7 +22,9 @@ body {
 	margin-left: 400px;
 	margin-right: 200px;
 }
-
+/**
+ ** menu @author Thomas
+ **/
 .menuContainer{
   width:1170px;
   position:relative;
@@ -77,6 +81,6 @@ li.menu-item{
   line-height:50px;
 }
 
-li.grid-item img{
+li.menu-item img{
   width:360px;
 }
