@@ -21,9 +21,17 @@ body {
 .header p{
 	width:75% ;
 	font-family: Impact;
-	font-size: 200px;
+	font-size: 100px;
 	margin-left: 400px;
     margin-right: 200px;
+}
+
+.header h2{
+	width:75%;
+	font-family: Impact;
+	text-align: left;
+	margin-left: 200px;
+	font-size: 200px;
 }
 /**
  ** menu @author Thomas
