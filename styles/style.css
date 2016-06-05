@@ -13,7 +13,8 @@ body {
 .header h1{
 	width:75% ;
 	font-family: Impact;
-	text-align: center;
+	text-align: left;
+	margin-left: 200px;
 	font-size: 200px;
 }
 
@@ -22,8 +23,8 @@ body {
 	font-family: Impact;
 	text-align: center;
 	font-size: 200px;
-	margin-left: 400px;
-	margin-right: 200px;
+	margin-left: 800px;
+    margin-right: 200px;
 }
 /**
  ** menu @author Thomas
