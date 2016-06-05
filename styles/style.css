@@ -53,12 +53,12 @@ ul.menu {
 	width:150px;
 	position: relative;
 	left: -200px;
-	top:200px;
+	top:100px;
 	text-align: left;
 }
 
 #self-intro p {
-	font-size:20px;
+	font-size:13px;
     position:absolute;
     color:#686868;
     letter-spacing:1px;
