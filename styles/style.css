@@ -56,6 +56,15 @@ ul.menu {
 	top:200px;
 	text-align: left;
 }
+
+#self-intro p {
+	font-size:20px;
+    position:absolute;
+    color:#686868;
+    letter-spacing:1px;
+    font-weight:bold;
+}
+
 li.menu-item{
   width:400px;
   position:relative;
