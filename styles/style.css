@@ -13,14 +13,14 @@ body {
 .header h1{
 	width:75% ;
 	font-family: Impact;
-	test-align: center;
+	text-align: center;
 	font-size: 200px;
 }
 
 .header p{
 	width:75% ;
 	font-family: Impact;
-	test-align: center;
+	text-align: center;
 	font-size: 200px;
 	margin-left: 400px;
 	margin-right: 200px;
