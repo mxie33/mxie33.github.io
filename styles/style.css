@@ -52,11 +52,10 @@ ul.menu {
 #self-intro {
 	width:150px;
 	position: relative;
-	left: -100px;
+	left: -200px;
 	top:200px;
 	text-align: left;
 }
-
 li.menu-item{
   width:400px;
   position:relative;
