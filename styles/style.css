@@ -33,6 +33,7 @@ body {
 	font-size: 200px;
 	margin-left: 800px;
 }
+
 /**
  ** menu @author Thomas
  **/
@@ -40,13 +41,11 @@ body {
   width:1200px;
   position:relative;
   margin: 30px auto;
-  padding: 10px;
   overflow:hidden;
 }
 
 ul.menu {
 	list-style: none;
-	width:100%;
 }
 
 li.menu-item{
@@ -100,4 +99,15 @@ li.menu-item{
 
 li.menu-item img{
   width:360px;
+  padding: 20px;
+}
+
+/**
+ **footer
+ **/
+footer {
+	height: 50px;
+	background: #f1f1f1;
+	width: 100%;
+
 }
