@@ -19,7 +19,7 @@ body {
 }
 
 .header p{
-	width:75% ;
+	width:75%;
 	font-family: Impact;
 	font-size: 100px;
 	margin-left: 400px;
@@ -29,8 +29,7 @@ body {
 .header h2{
 	width:75%;
 	font-family: Impact;
-	text-align: left;
-	margin-left: 400px;
+	text-align: center;
 	font-size: 200px;
 }
 /**
