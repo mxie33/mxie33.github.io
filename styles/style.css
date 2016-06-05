@@ -49,7 +49,7 @@ ul.menu {
 }
 
 li.menu-item{
-  width:360px;
+  width:400px;
   position:relative;
   float:left;
   padding:20px;
@@ -93,7 +93,7 @@ li.menu-item{
   position:absolute;
   color:#686868;
   letter-spacing:1px;
-  font-weight:400;
+  font-weight:bold;
   line-height:50px;
 }
 
