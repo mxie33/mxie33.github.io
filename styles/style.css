@@ -29,8 +29,9 @@ body {
 .header h2{
 	width:75%;
 	font-family: Impact;
-	text-align: center;
+	text-align: left;
 	font-size: 200px;
+	margin-left: 800px;
 }
 /**
  ** menu @author Thomas
