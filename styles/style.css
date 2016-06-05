@@ -21,9 +21,8 @@ body {
 .header p{
 	width:75% ;
 	font-family: Impact;
-	text-align: left;
 	font-size: 200px;
-	margin-left: 800px;
+	margin-left: 400px;
     margin-right: 200px;
 }
 /**
@@ -40,7 +39,7 @@ li.menu-item{
   width:360px;
   position:relative;
   float:left;
-  padding:15px;
+  padding:20px;
 }
 
 .grid-hover{
