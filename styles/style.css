@@ -17,5 +17,7 @@ body {
 	font-family: Impact;
 	test-align: center;
 	font-size: 200px;
+	margin: 40px;
+	margin-left: auto;
 }
 
