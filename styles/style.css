@@ -49,6 +49,14 @@ ul.menu {
 	margin-left: 250px;
 }
 
+#self-intro {
+	width:150px;
+	position: relatie;
+	left: 50px;
+	top:0px;
+	text-align: left;
+}
+
 li.menu-item{
   width:400px;
   position:relative;
