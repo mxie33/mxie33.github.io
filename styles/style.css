@@ -51,9 +51,9 @@ ul.menu {
 
 #self-intro {
 	width:150px;
-	position: relatie;
-	left: 50px;
-	top:0px;
+	position: relative;
+	left: 0px;
+	top:100px;
 	text-align: left;
 }
 
