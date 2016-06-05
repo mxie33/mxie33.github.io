@@ -42,7 +42,10 @@ body {
   margin: 30px auto;
   padding: 10px;
   overflow:hidden;
-  list-style: none;
+}
+
+ul.menu {
+	list-style: none;
 }
 
 li.menu-item{
