@@ -1,11 +1,13 @@
-.headContainer {
+body {
 	background-color: rgb(0,0,0);
-    width:1980px;
+    color: #fff;
+}
+
+.headContainer {
     height:1080px;
 }
 
 .header h1{
-	color:#fff;
 	font-family: Impact;
 	test-align: center;
 	font-size: 200px;
