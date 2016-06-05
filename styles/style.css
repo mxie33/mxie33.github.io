@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(0,0,0);
+
     color: #fff;
 }
 
@@ -8,9 +8,16 @@ body {
 }
 
 .header h1{
+	width: 75%;
 	font-family: Impact;
 	test-align: center;
 	font-size: 200px;
 }
 
+.header p{
+	width: 75%;
+	font-family: Impact;
+	test-align: center;
+	font-size: 200px;
+}
 
