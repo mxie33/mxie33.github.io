@@ -46,6 +46,7 @@ body {
 
 ul.menu {
 	list-style: none;
+	margin-left: 250px;
 }
 
 li.menu-item{
