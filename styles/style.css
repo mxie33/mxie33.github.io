@@ -5,10 +5,6 @@ body {
 /**
  ** header
  **/
-.headContainer {
-    height:1080px;
-    width:100%;
-}
 
 .header h1{
 
@@ -38,7 +34,7 @@ body {
  ** menu @author Thomas
  **/
 .menuContainer{
-  width:1200px;
+  width:100%;
   position:relative;
   margin: 30px auto;
   overflow:hidden;
